@@ -54,6 +54,16 @@ lenguaje en un conjunto de instrucciones en otro formato o lenguaje.
 Un compilador es un programa de computadora que realiza dicha tarea.
 ```
 
+> ## GIT
+
+GIT es un sistema que te ayuda a controlar los cambios en tus archivos y te ayuda a colaborar con otros en proyecyos de Software.
+
+```
+Git es un sistema de control de versiones distribuido diseñado para gestionar
+proyectos de software de manera eficiente y colaborativa.
+```
+
+
 # ****CICLO DE DESARROLLO DE SOFTWARE****
 ![image](https://github.com/ClechoPola/ISW-Notas/assets/159574425/6571d961-1c3a-4386-b742-36b036ee8b49)
 
